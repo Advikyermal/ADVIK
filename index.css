@@ -1,0 +1,26 @@
+.head {
+    text-align:center;
+    text-decoration-color: black;
+    height: 4cm;
+    background-color: rgba(24, 43, 51, 0.892);
+    color:rgb(197, 29, 29);
+    padding: 5px;
+}
+img {
+    border:10cm;
+    padding-left:38%;
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+}
+.d {
+    text-align:center;
+    height: 10cm;
+    background-color: rgb(32, 50, 53);
+    color:rgba(53, 99, 89, 0.849);
+    padding: 5px;
+
+}
+.c{
+    text-align: center;
+}
